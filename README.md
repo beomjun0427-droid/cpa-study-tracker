@@ -51,10 +51,10 @@ streamlit run app.py
 ## Screenshots
 
 ### 챕터별 열람 모드
-![챕터별 열람 화면](screenshots/browse_mode.png)
+![챕터별 열람 화면](browse_mode.png)
 
 ### 랜덤 퀴즈 모드
-![랜덤 퀴즈 화면](screenshots/quiz_mode.png)
+![랜덤 퀴즈 화면](random_quiz.png)
 
 ## Future Improvements
 
