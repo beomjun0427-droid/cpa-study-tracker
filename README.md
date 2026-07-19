@@ -50,8 +50,11 @@ streamlit run app.py
 
 ## Screenshots
 
-<!-- 여기에 실행 화면 스크린샷 2~3장을 screenshots/ 폴더에 넣고 링크하세요 -->
-<!-- 예: ![챕터별 열람 화면](screenshots/browse_mode.png) -->
+### 챕터별 열람 모드
+![챕터별 열람 화면](screenshots/browse_mode.png)
+
+### 랜덤 퀴즈 모드
+![랜덤 퀴즈 화면](screenshots/quiz_mode.png)
 
 ## Future Improvements
 
