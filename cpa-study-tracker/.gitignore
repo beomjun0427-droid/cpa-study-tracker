@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml
+
+# 개인 학습 진도 기록 (사용자마다 달라지는 데이터이므로 레포에는 포함하지 않음)
+progress.json
